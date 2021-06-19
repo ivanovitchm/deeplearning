@@ -4,9 +4,9 @@
 
 
 Lesson #01 - Introduction
- 	- Course Outline & Presentation
- 	- [Google Colab Introduction](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
- 	- [Google Colab Cont.](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
+	- Course Outline & Presentation
+	- [Google Colab Introduction](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
+	- [Google Colab Cont.](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
 Lesson #02 - Fundamentals of Deep Learning
 	- [Outline](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
 	- [The perceptron](https://www.loom.com/share/bccf2bc2c7f24652b7b3b73825e0100f)
