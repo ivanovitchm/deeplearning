@@ -1,4 +1,4 @@
-<center><img width="600" src="https://drive.google.com/uc?export=view&id=1-4Ug5JFs9_5tmMfnGpLanRQIWZtF6PRn"></center>
+<center><img width="700" src="https://drive.google.com/uc?export=view&id=1-4Ug5JFs9_5tmMfnGpLanRQIWZtF6PRn"></center>
 <center>
 
 
@@ -7,6 +7,16 @@
 
 
 ### IMD1114 - Deep Learning
+
+### References
+
+## References
+
+- :books: Adrian Rosebrock. Deep Learning for Computer Vision with Python[[Link]](https://www.pyimagesearch.com/)
+- :books: Jason Brownlee. Deep Learning for Computer Vision: Image Classification, Object Detection, and Face Recognition in Python[[Link]](https://machinelearningmastery.com/deep-learning-for-computer-vision/)
+- :books: Jason Brownlee. Better Deep Learning[[Link]](https://machinelearningmastery.com/better-deep-learning/)
+- :books: Aurélien Géron. Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow. [[Link]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- :books: François Chollet. Deep Learning with Python [[Link]](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
 
 Lesson 01 - Introduction
