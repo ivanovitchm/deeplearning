@@ -19,14 +19,14 @@
 
 ### Lessons
 
-Week 01 - Introduction
+Week 01 - Introduction [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_01/Week_01.pdf)
  - Course Outline & Presentation
  - Google Colab Introduction [[Video]](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
  - Google Colab Cont. [[Video]](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
  - - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb) [Python Crash Course](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb)
 
 
-Week 02 - Fundamentals of Deep Learning
+Week 02 - Fundamentals of Deep Learning [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_02/Week%20%2302%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
  - Outline [[Video]](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
  - The perceptron [[Video]](https://www.loom.com/share/bccf2bc2c7f24652b7b3b73825e0100f)
  - Building Neural Networks [[Video]](https://www.loom.com/share/f0ca49107b52458699210cbda8d3cb76)
