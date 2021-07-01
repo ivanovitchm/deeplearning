@@ -10,21 +10,21 @@
 
 ### References
 
-## References
 
-- :books: Adrian Rosebrock. Deep Learning for Computer Vision with Python[[Link]](https://www.pyimagesearch.com/)
-- :books: Jason Brownlee. Deep Learning for Computer Vision: Image Classification, Object Detection, and Face Recognition in Python[[Link]](https://machinelearningmastery.com/deep-learning-for-computer-vision/)
-- :books: Jason Brownlee. Better Deep Learning[[Link]](https://machinelearningmastery.com/better-deep-learning/)
+- :books: Adrian Rosebrock. Deep Learning for Computer Vision with Python [[Link]](https://www.pyimagesearch.com/)
+- :books: Jason Brownlee. Deep Learning for Computer Vision: Image Classification, Object Detection, and Face Recognition in Python [[Link]](https://machinelearningmastery.com/deep-learning-for-computer-vision/)
+- :books: Jason Brownlee. Better Deep Learning [[Link]](https://machinelearningmastery.com/better-deep-learning/)
 - :books: Aurélien Géron. Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow. [[Link]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - :books: François Chollet. Deep Learning with Python [[Link]](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
+### Lessons
 
-Lesson 01 - Introduction
+Week 01 - Introduction
  - Course Outline & Presentation
  - Google Colab Introduction [[Video]](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
  - Google Colab Cont. [[Video]](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
 
-Lesson 02 - Fundamentals of Deep Learning
+Week 02 - Fundamentals of Deep Learning
  - Outline [[Video]](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
  - The perceptron [[Video]](https://www.loom.com/share/bccf2bc2c7f24652b7b3b73825e0100f)
  - Building Neural Networks [[Video]](https://www.loom.com/share/f0ca49107b52458699210cbda8d3cb76)
