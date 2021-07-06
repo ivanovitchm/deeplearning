@@ -43,7 +43,7 @@ Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/ivano
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_02/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb) [Optimization Methods](https://github.com/ivanovitchm/deeplearning/blob/main/week_02/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb)
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_02/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb) [Better Learning - Part I](https://github.com/ivanovitchm/deeplearning/blob/main/week_02/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb)
 
-Weeks 04 & 05 Better Generalization vs Better Learning
+Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_04_05/Weeks%20%2303_04%20Better%20Deep%20Learning.pdf)
 - Better Generalization
 	- Outline
 	- Spliting Data [[Video]](https://www.loom.com/share/436be4492b0549baba57c52d40941cc3)
