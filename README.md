@@ -53,6 +53,7 @@ Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.
   	- Dropout [[Video]](https://www.loom.com/share/c32f0a35d56b426ca988e05926787936)
   	- Promote Robustness with Noise [[Video]](https://www.loom.com/share/ed48470b14a3460eac572dcf9d8838c9)
   	- Early Stopping [[Video]](https://www.loom.com/share/c738eed439a34794a6b99c555b99afad)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2301%20Better%20Generalization%20I.ipynb) [Better Generalization - Part I](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2301%20Better%20Generalization%20I.ipynb)
 - Better Learning
   	- Data scaling [[Video]](https://www.loom.com/share/7008b640440d412498578e27b8557471)
   	- Vanishing/Exploding Gradient [[Video]](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
