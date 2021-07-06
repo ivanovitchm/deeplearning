@@ -45,7 +45,7 @@ Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/ivano
 
 Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_04_05/Weeks%20%2303_04%20Better%20Deep%20Learning.pdf)
 - Better Generalization
-	- Outline
+	- Outline [[Video]](https://www.loom.com/share/1d6cee38eed94354bda412fd19e89308)
 	- Spliting Data [[Video]](https://www.loom.com/share/436be4492b0549baba57c52d40941cc3)
 	- Bias vs Variance [[Video]](https://www.loom.com/share/9cc90385906d458b9baafc19c686cc8e)
  	- Weight Regularization [[Video]](https://www.loom.com/share/6f8e8101bee243318302cb3742fbdb8c)
