@@ -44,8 +44,8 @@ Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/ivano
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_02/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb) [Better Learning - Part I](https://github.com/ivanovitchm/deeplearning/blob/main/week_02/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb)
 
 Weeks 04 & 05 Better Generalization vs Better Learning
-	- Better Generalization
-		- Outline
+- Better Generalization
+	- Outline
   		- Spliting Data [[Video]](https://www.loom.com/share/436be4492b0549baba57c52d40941cc3)
   		- Bias vs Variance [[Video]](https://www.loom.com/share/9cc90385906d458b9baafc19c686cc8e)
   		- Weight Regularization [[Video]](https://www.loom.com/share/6f8e8101bee243318302cb3742fbdb8c)
