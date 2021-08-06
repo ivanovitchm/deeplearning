@@ -73,4 +73,8 @@ Week 06 - Hyperparameter Tuning & Batch Normalization [[Slide]](https://github.c
 - Batch Normalization Fundamentals [[Video]](https://www.loom.com/share/adf8e445186d44caa79a83d0f3af97d8)
 - Batch Normalization Math Details [[Video]](https://www.loom.com/share/b2dad925916e4ae58d6a3cf3223be945)
 - Batch Normalization Case Study [[Video]](https://www.loom.com/share/d8113419cd56463eab0094df1a687cf0)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Task%20%2301%20Hyperparameter%20Tuning%20using%20Keras%20Tuner.ipynb) [Hyperparameter tuning using keras tuner](https://github.com/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Task%20%2301%20Hyperparameter%20Tuning%20using%20Keras%20Tuner.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Task%20%2302%20Hyperparameter%20Tuning%20using%20Weights%20and%20Biases.ipynb) [Hyperparameter tuning using weights and biases](https://github.com/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Task%20%2302%20Hyperparameter%20Tuning%20using%20Weights%20and%20Biases.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Track%20%2303%20Batch%20Normalization.ipynb) [Batch Normalization](https://github.com/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Track%20%2303%20Batch%20Normalization.ipynb)
+
 
