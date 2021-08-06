@@ -64,12 +64,13 @@ Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2304%20Better%20Learning%20III.ipynb) [Better Learning - Part III](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2304%20Better%20Learning%20III.ipynb)
 
 Week 06 - Hyperparameter Tuning & Batch Normalization [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Hyperparameter%20Tuning%20and%20Batch%20Normalization.pdf)
-	- Outline [[Video]](https://loom.com/share/31e6d97572dd4574904e716861cba8ae)
-	- Hyperparameter Tuning Fundamentals [[Video]](https://www.loom.com/share/19920a5abadd4ce0bea8eadc26c778ee)
-	- Keras Tuner, and Weight and Biases [[Video]](https://www.loom.com/share/f27dcb1d5779432a906e19db7a834c65)
-	- Wandb - Part 01 [[Video]](https://www.loom.com/share/fed7cfc2a5414ad58637244f84add9b8)
-	- Wandb - Part 02 [[Video]](https://www.loom.com/share/16255ea534b34691a90801fe1d34ce6d)
-	- Batch Normalization Fundamentals [[Video]](https://www.loom.com/share/adf8e445186d44caa79a83d0f3af97d8)
-	- Batch Normalization Math Details [[Video]](https://www.loom.com/share/b2dad925916e4ae58d6a3cf3223be945)
-	- Batch Normalization Case Study [[Video]](https://www.loom.com/share/d8113419cd56463eab0094df1a687cf0)
+
+- Outline [[Video]](https://loom.com/share/31e6d97572dd4574904e716861cba8ae)
+- Hyperparameter Tuning Fundamentals [[Video]](https://www.loom.com/share/19920a5abadd4ce0bea8eadc26c778ee)
+- Keras Tuner, and Weight and Biases [[Video]](https://www.loom.com/share/f27dcb1d5779432a906e19db7a834c65)
+- Wandb - Part 01 [[Video]](https://www.loom.com/share/fed7cfc2a5414ad58637244f84add9b8)
+- Wandb - Part 02 [[Video]](https://www.loom.com/share/16255ea534b34691a90801fe1d34ce6d)
+- Batch Normalization Fundamentals [[Video]](https://www.loom.com/share/adf8e445186d44caa79a83d0f3af97d8)
+- Batch Normalization Math Details [[Video]](https://www.loom.com/share/b2dad925916e4ae58d6a3cf3223be945)
+- Batch Normalization Case Study [[Video]](https://www.loom.com/share/d8113419cd56463eab0094df1a687cf0)
 
