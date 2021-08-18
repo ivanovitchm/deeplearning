@@ -77,4 +77,15 @@ Week 06 - Hyperparameter Tuning & Batch Normalization [[Slide]](https://github.c
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Task%20%2302%20Hyperparameter%20Tuning%20using%20Weights%20and%20Biases.ipynb) [Hyperparameter tuning using weights and biases](https://github.com/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Task%20%2302%20Hyperparameter%20Tuning%20using%20Weights%20and%20Biases.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Track%20%2303%20Batch%20Normalization.ipynb) [Batch Normalization](https://github.com/ivanovitchm/deeplearning/blob/main/week_06/Week%20%2306%20Track%20%2303%20Batch%20Normalization.ipynb)
 
+Week 07 - Fundamentals of Convolutional Neural Networks (CNN) [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_07/Week%20%2307%20Fundamentals%20of%20CNN.pdf)
+
+- Outline [[Video]](https://loom.com/share/b49c626913cd4d0e9dedb572626a4a48)
+- CNN: Introduction and motivation [[Video]](https://www.loom.com/share/bb17b639264c4b079b375b63c4c16085)
+- Convolutional layer [[Video]](https://www.loom.com/share/dd6b3d3ae5b3430ead7ed09174dd1b4c)
+- Case study of convolutional layer [[Video]](https://www.loom.com/share/48b2566fae7b4c9794526e41ffbd624c)
+- Pooling layer [[Video]](https://www.loom.com/share/055e32dcd2564b13890ce19d72daba32)
+- Fully connected layer [[Video]](https://www.loom.com/share/7912c7d6e1a54a97b39c15efb5a9fc88)
+- Case study - signs dataset [[Video]](https://www.loom.com/share/2ea8f406635b489faa9f7f5ec675de73)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_07/Foundations_of_DL_for_CV_and_Image_Data_Preparation.ipynb) [Foundations of DL for CV](https://github.com/ivanovitchm/deeplearning/blob/main/week_07/Foundations_of_DL_for_CV_and_Image_Data_Preparation.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_07/Convolutional_Neural_Networks_and_Case_Studies.ipynb) [CNN case study](https://github.com/ivanovitchm/deeplearning/blob/main/week_07/Convolutional_Neural_Networks_and_Case_Studies.ipynb)
 
