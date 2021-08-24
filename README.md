@@ -101,4 +101,5 @@ Week 08 - Convolutional Neural Networks (CNN) Architecture I [[Slide]](https://g
 - Dogs vs Cats Challenge + HDF5 [[Video]](https://www.loom.com/share/ba0bfb5f5f6044fead11ebebee3eedd3)
 - CNN Architectures - Hands on Part #01 [[Video]](https://www.loom.com/share/068d3145cd9c4b0291e5d2a83a2c494b)
 - CNN Architectures - Hands on Part #02 [[Video]](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_08/Lesson_08.ipynb) [LeNet-5 and AlexNet applied to Cat & Dogs problem and using HDFS files](https://github.com/ivanovitchm/deeplearning/blob/main/week_08/Lesson_08.ipynb)
 
