@@ -89,3 +89,16 @@ Week 07 - Fundamentals of Convolutional Neural Networks (CNN) [[Slide]](https://
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_07/Foundations_of_DL_for_CV_and_Image_Data_Preparation.ipynb) [Foundations of DL for CV](https://github.com/ivanovitchm/deeplearning/blob/main/week_07/Foundations_of_DL_for_CV_and_Image_Data_Preparation.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_07/Convolutional_Neural_Networks_and_Case_Studies.ipynb) [CNN case study](https://github.com/ivanovitchm/deeplearning/blob/main/week_07/Convolutional_Neural_Networks_and_Case_Studies.ipynb)
 
+Week 08 - Convolutional Neural Networks (CNN) Architecture I [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_08/Lesson%20%2308%20CNN%20Architectures.pdf)
+
+- Outline [[Video]](https://www.loom.com/share/c218c4ac06684b13aa07049b39f4b4df)
+- Typical CNN Architecture [[Video]](https://www.loom.com/share/9aaf99dc6e75403b96e17b08da935313)
+- Best practices when building your own CNN [[Video]](https://www.loom.com/share/f1016707d00f4fd99c9dfb6295072554)
+- LeNet-5 [[Video]](https://www.loom.com/share/ddaf75c76e6b4ab39b3741f43a655764)
+- Training LeNet-5 using MNIST dataset [[Video]](https://www.loom.com/share/59ca5879a00242b4814f822fa3c6a430)
+- ImageNet & ILSVRC [[Video]](https://www.loom.com/share/c4f94499da3a4769bd751c2970c3d6ab)
+- AlexNet [[Video]](https://www.loom.com/share/bc8475491fcf49d1b17305a0441843f7)
+- Dogs vs Cats Challenge + HDF5 [[Video]](https://www.loom.com/share/ba0bfb5f5f6044fead11ebebee3eedd3)
+- CNN Architectures - Hands on Part #01 [[Video]](https://www.loom.com/share/068d3145cd9c4b0291e5d2a83a2c494b)
+- CNN Architectures - Hands on Part #02 [[Video]](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
+
