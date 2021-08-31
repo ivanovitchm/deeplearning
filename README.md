@@ -117,6 +117,14 @@ Week 09 - Convolutional Neural Networks (CNN) Architecture II [[Slide]](https://
 Week 10 - Convolutional Neural Networks (CNN) Architecture III - ResNet
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_10/Week_10.ipynb) [ResNet hands on](https://github.com/ivanovitchm/deeplearning/blob/main/week_10/Week_10.ipynb)
 
+Week 11 - Transfer Learning [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_11/Week%20%2311.pdf)
+
+- Outline [[Video]](https://www.loom.com/share/a748317324724d029678eb33c877b82f)
+- Feature extractors [[Video]](https://www.loom.com/share/e19e7431012c42aaa3957ebf0e756e8b)
+- Feature extractors: case study [[Video]](https://www.loom.com/share/7492b62692b24617a3c87f3635af8942)
+- Fine-tuning [[Video]](https://www.loom.com/share/eaf9c878e7474a1b864bd5e967ae2b05)
+- Fine-tuning: case study I - flowers 17 [[Video]](https://www.loom.com/share/57830f6349e84360a71ceac147e0ac41)
+- Fine-tuning: case study II - cats and dogs [[Video]](https://www.loom.com/share/9253be684b06472ea9705eb1cf7cf321)
 
 
 
