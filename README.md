@@ -103,3 +103,19 @@ Week 08 - Convolutional Neural Networks (CNN) Architecture I [[Slide]](https://g
 - CNN Architectures - Hands on Part #02 [[Video]](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_08/Lesson_08.ipynb) [LeNet-5 and AlexNet applied to Cat & Dogs problem and using HDFS files](https://github.com/ivanovitchm/deeplearning/blob/main/week_08/Lesson_08.ipynb)
 
+Week 09 - Convolutional Neural Networks (CNN) Architecture II [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_09/Week_09.pdf)
+
+- Outline [[Video]](https://www.loom.com/share/12dabb12f4df48f29802976dedf28a93)
+- VGG [[Video]](https://www.loom.com/share/54f9a9a0c7164752a0daa2e11ab94304)
+- Case study using CIFAR-10 [[Video]](https://www.loom.com/share/f8543faa8a9544f690e8d83493d053ff)
+- How to use 1x1 convolutions [[Video]](https://www.loom.com/share/4fa05c8a49814494a658e9ad337a8ef6)
+- GoogLeNet [[Video]](https://www.loom.com/share/3f6e276e64b845f390174e86b45a9e5f)
+- MiniGoogleLeNet using CIFAR-10 [[Video]](https://www.loom.com/share/62f243ae46ec4796bb767a7e6cbd78c9)
+- DeeperGoogLeNet and Tiny ImageNet Challenge [[Video]](https://www.loom.com/share/af4eee545ac24cc59dae0482443efa67)
+
+
+
+
+
+
+
