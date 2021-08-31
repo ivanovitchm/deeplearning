@@ -114,7 +114,7 @@ Week 09 - Convolutional Neural Networks (CNN) Architecture II [[Slide]](https://
 - DeeperGoogLeNet and Tiny ImageNet Challenge [[Video]](https://www.loom.com/share/af4eee545ac24cc59dae0482443efa67)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_09/Week_09.ipynb) [VGG and GoogLeNet hands on](https://github.com/ivanovitchm/deeplearning/blob/main/week_09/Week_09.ipynb)
 
-Week 10 - ResNet
+Week 10 - Convolutional Neural Networks (CNN) Architecture III - ResNet
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_10/Week_10.ipynb) [ResNet hands on](https://github.com/ivanovitchm/deeplearning/blob/main/week_10/Week_10.ipynb)
 
 
