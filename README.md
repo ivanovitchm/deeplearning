@@ -125,7 +125,8 @@ Week 11 - Transfer Learning [[Slide]](https://github.com/ivanovitchm/deeplearnin
 - Fine-tuning [[Video]](https://www.loom.com/share/eaf9c878e7474a1b864bd5e967ae2b05)
 - Fine-tuning: case study I - flowers 17 [[Video]](https://www.loom.com/share/57830f6349e84360a71ceac147e0ac41)
 - Fine-tuning: case study II - cats and dogs [[Video]](https://www.loom.com/share/9253be684b06472ea9705eb1cf7cf321)
-
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_11/Week_11.ipynb) [Transfer Learning hands on](https://github.com/ivanovitchm/deeplearning/blob/main/week_11/Week_11.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_11/Week_11_Cat_and_Dogs.ipynb) [Case Study: cats and dogs](https://github.com/ivanovitchm/deeplearning/blob/main/week_11/Week_11_Cat_and_Dogs.ipynb)
 
 
 
