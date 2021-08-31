@@ -112,6 +112,7 @@ Week 09 - Convolutional Neural Networks (CNN) Architecture II [[Slide]](https://
 - GoogLeNet [[Video]](https://www.loom.com/share/3f6e276e64b845f390174e86b45a9e5f)
 - MiniGoogleLeNet using CIFAR-10 [[Video]](https://www.loom.com/share/62f243ae46ec4796bb767a7e6cbd78c9)
 - DeeperGoogLeNet and Tiny ImageNet Challenge [[Video]](https://www.loom.com/share/af4eee545ac24cc59dae0482443efa67)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_09/Week_09.ipynb) [VGG and GoogLeNet hands on](https://github.com/ivanovitchm/deeplearning/blob/main/week_09/Week_09.ipynb)
 
 
 
